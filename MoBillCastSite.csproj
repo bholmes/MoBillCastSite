@@ -83,7 +83,11 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="qarcvr\receiver.html" />
+    <Content Include="rcvr\board.js" />
     <Content Include="rcvr\receiver.html" />
+    <Content Include="rcvr\tictactoe.html" />
+    <Content Include="rcvr\tictactoe.js" />
+    <Content Include="rcvr\tictactoe.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
